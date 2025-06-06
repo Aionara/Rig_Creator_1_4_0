@@ -44,5 +44,7 @@
 所有基础骨骼与集合名称已统一为英文，便于跨语言协作。
 
 ---
+[查看演示教程](https://www.youtube.com/watch?v=rPYuqSVi2Rk&t=162s)
+[原版下载地址](https://edwardurena.gumroad.com/l/ramoo?a=477128051)
 
 
